@@ -9,7 +9,7 @@ In this course, Tuts+ instructor Jeremy McPeak will teach you about about Angula
 
 ## Source Files Description
 
-This repository contains the completed source code for the animated SoundCloud application implemented during the course. The folders within this repository capture the revisions of the source code after each lesson. To run the project, just clone the repository and double-click the `index.html` file for a particular lesson.
+This repository contains the completed source code for the animated SoundCloud application implemented during the course. The folders within this repository capture the revisions of the source code after each lesson.
 
 ------
 
